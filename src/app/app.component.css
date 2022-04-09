@@ -1,0 +1,38 @@
+.item-drop {
+    position: relative;
+}
+.slider {
+    margin-bottom: 30px;
+}
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+.picsum-img-wrapper img{
+    width: 100%;
+}
+
+
+
+
+.oxy-progress-bar-background {
+    background: #0f0;
+    height: 40px;
+}
+.oxy-progress-bar-progress-wrap {
+    height: 100%;
+}
+.oxy-progress-bar-progress {
+    color: #FFF;
+    padding: 0px 10px;
+    align-items: center;
+    background: #00f;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    transition: all 5s ease;
+    width: 15%;
+}
+.progress_bar_custom{
+    width: 85%;
+}
